@@ -1,0 +1,24 @@
+[
+   {
+      "encompassId":"abc",
+      "dateTime":"2019-09-09T23:34:34.332Z",
+      "eventType":"blah",
+      "data":{
+         "userId":"123",
+         "resourceId":"1",
+         "resourceType":"Encompass",
+         "resourceRef":""
+      }
+   },
+   {
+      "encompassId":"def",
+      "dateTime":"2019-09-010T09:34:34.332Z",
+      "eventType":"blah blah blah once again",
+      "data":{
+         "userId":"456",
+         "resourceId":"1",
+         "resourceType":"Encompass",
+         "resourceRef":""
+      }
+   }
+]
